@@ -1,0 +1,17 @@
+{
+    "name": "nahian/loop-creational-design-pattern",
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nahian\\LoopCreationalDesignPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nahian",
+            "email": "nahian048@gmail.com"
+        }
+    ]
+}
